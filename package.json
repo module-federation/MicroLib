@@ -46,7 +46,7 @@
     "babel-loader": "^8.1.0",
     "esm": "^3.2.25",
     "express-cli": "0.0.1",
-    "mocha": "^8.2.0",
+    "mocha": "8.4.0",
     "nodemon": "^2.0.6",
     "rimraf": "^3.0.2",
     "webpack": "^5.4.0",
